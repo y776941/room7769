@@ -1,4 +1,4 @@
-var rid='19646278c0b';
+var rid='19646278c0bxeaefd974x';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
 }`);
@@ -319,7 +319,7 @@ button.rsave.btn.btn-primary.fl.l7dah1 {
 `);
 var l7dah = false;
 setInterval(function () {
-    if (myroom == '19646278c0b') {
+    if (myroom == '19646278c0bxeaefd974x') {
         if (l7dah == false) {
             l7dah = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('l7dah1');
