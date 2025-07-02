@@ -45,7 +45,7 @@ opacity: 0;
 .nosel d-flex room r197cb46eea3x141d6685x-wt4n0m {
     background-image: url(https://up6.cc/2025/06/175125367645411.gif);
     background-size: cover;
-    border-radius: 15px 0px 15px 0px;
+    border-radius: 0px 0px 0px 0px;
     display: inline-block;
 }
 .nosel d-flex room r197cb46eea3x141d6685x-wt4n0m .fitimg.u-pic.borderg {
@@ -72,4 +72,3 @@ background-size: 100% 100%;
 margin-top: 10px;
 display: none;
 }
-@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
