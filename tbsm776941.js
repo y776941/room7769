@@ -65,7 +65,7 @@ opacity: 0;
 text-transform: uppercase;
 -webkit-text-fill-color: #e8a64d00;
 animation: textclip 2s linear infinite;
-background-image: url(https://up6.cc/2023/02/167583319574361.gif);
+background-image: url(https://up6.cc/2025/07/175148105427341.gif);
 -webkit-background-clip: text;
 color: transparent !important;
 background-size: 100% 100%;
