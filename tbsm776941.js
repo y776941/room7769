@@ -3,9 +3,8 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius: 2px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2025/07/175149157499711.png1); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2025/07/175149157499711.png); background-size: cover;color: #666666;
 }`);
-
 
 $(`<style>
 
@@ -49,7 +48,7 @@ text-shadow: 1px 1px 2px #fff, 0 0 25px #fff, 0 0 5px #fff!important;
 
 	-webkit-text-fill-color: #0000 !important;
 }
-.nosel.d-flex.room.r1197cb46eea3x141d6685x-wt4n0m {
+.nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m {
     background-image: url(https://up6.cc/2025/07/175148529463351.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
