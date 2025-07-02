@@ -25,7 +25,7 @@ margin-left: 40px !important;
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .corner.fa.fa-user.label.label-primary.uc {
   letter-spacing: 0px;
   -webkit-text-fill-color: #fff;
-  border-radius: 15px 15px 15px 15px !important;
+  border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
