@@ -73,4 +73,3 @@ margin-top: 10px;
 display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-.
