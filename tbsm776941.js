@@ -2,7 +2,6 @@ var rid='197cb46eea3x141d6685x-wt4n0m';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  50px!important;border: 0px solid #0000;
 }`);
-
 $(`<style>
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .label-primary {
   letter-spacing:2px;
