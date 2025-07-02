@@ -81,6 +81,7 @@ text-shadow: 1px 1px 2px #fff, 0 0 25px #fff, 0 0 5px #fff!important;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
+
 var rid='1916a1daa88x6b0c13f1x-f13iox';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  50px!important;border: 0px solid #0000;
