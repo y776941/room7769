@@ -1,17 +1,3 @@
-function onPageLoaded() {
-    // Write your javascript code here
-    console.log("page loaded");
-}
-
-document.addEventListener("DOMContentLoaded", function () {
-    // Listen for clicks on elements with the class 'play-button'
-    document.querySelectorAll(".play-button").forEach(function (button) {
-        button.addEventListener("click", function () {
-            // When a play button is clicked, simulate a click on the <a> tag within the same .video-container
-            this.parentNode.querySelector("a").click();
-        });
-    });
-});
 var rid='19728559da3x1acbbd55xpm2m96';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  50px!important;border: 0px solid #0000;
@@ -86,3 +72,4 @@ background-size: 100% 100%;
 margin-top: 10px;
 display: none;
 }
+@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
