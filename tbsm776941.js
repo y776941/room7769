@@ -5,7 +5,6 @@ background-size: 220% auto;border-radius: 2px !important;border: 1px solid #0000
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2025/07/175149157499711.png); background-size: cover;color: #666666;
 }`);
-
 $(`<style>
 
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .fitimg.u-pic.borderg {
@@ -14,7 +13,6 @@ $(`<style>
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .label-primary {letter-spacing: 1px;
 
 	
