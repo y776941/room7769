@@ -6,7 +6,6 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2025/07/175149167711131.png); background-size: cover;color: #666666;
 }`);
 
-
 $(`<style>
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .fitimg.u-pic.borderg {
   letter-spacing: 1px;
