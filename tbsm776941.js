@@ -224,7 +224,7 @@ $("style").last().append(`
 
 #room.ashq1 .tablebox.d-flex.footer.fl.light {
   border-radius: 0 10px 0 10px !important;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #fdf5ec;
 }
 
 #upro.ashq1 .light.fl.pro.break{background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#wall.ashq1 .fitimg.u-pic.borderg{border-radius:0 10px 0 10px;height:52px!important;border:1px solid #fff;margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ff0060}
