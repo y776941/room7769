@@ -124,7 +124,7 @@ opacity: 0;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r1916a1daa88x6b0c13f1x-f13iox .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r19716a5ef58x04376363-xs3xelg .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #686868;
   letter-spacing: 1px;
