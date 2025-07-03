@@ -220,7 +220,7 @@ $("style").last().append(`
   border: 1px solid #ecdce4;
 }
 
-#d2.ashq1{background-color:#fce4ee !important;}
+#d2.ashq1{background-color:#e4e4e4 !important;}
 
 #room.ashq1 .tablebox.d-flex.footer.fl.light {
   border-radius: 0 10px 0 10px !important;
