@@ -106,7 +106,7 @@ text-align: center;
 }
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m {
   border-radius: 5px;
-  background-image: url(https://up6.cc/2025/07/175148529463351.gif);
+  background-image: url(https://up6.cc/2025/07/175155059892161.gif);
   background-size: 100%;
 }
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .fitimg.u-pic.borderg {
