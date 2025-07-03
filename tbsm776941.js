@@ -217,7 +217,7 @@ $("style").last().append(`
 
 #room.ashq1 .btn-primary {
   border-radius: 0 10px 0 10px !important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #c0c0c0;
 }
 
 #d2.ashq1{background-color:#e4e4e4 !important;}
