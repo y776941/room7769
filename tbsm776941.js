@@ -119,7 +119,7 @@ opacity: 0;
 
 }
 .nosel.d-flex.room.r19716a5ef58x04376363-xs3xelg {
-    background-image: url(0000000000000);
+    background-image: url(https://up6.cc/2025/07/175157216139111.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -149,6 +149,7 @@ margin-top: 10px;
 display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
 
 var rid='197cb46eea3x141d6685x-wt4n0m';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ffd6e0 67%, #3600ff 100%);
