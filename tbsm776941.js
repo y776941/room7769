@@ -75,9 +75,9 @@ display: none;
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
 var rid='197cb46eea3x141d6685x-wt4n0m';
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ffd6e0 67%, #3600ff 100%);
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ffd6e0 67%, #000 100%);
 background-size: 220% auto;animation: textclip 5s linear infinite;padding: 2px!important;border-radius: 50px !important;border: 1px solid #0000;}`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ffd6e0 67%, #3600ff 100%);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ffd6e0 67%, #000 100%);
 background-size: 220% auto;
 animation: textclip 5s linear infinite;border-radius: 50px !important;border: 1px solid #0000;}`);
 
