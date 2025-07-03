@@ -119,7 +119,7 @@ opacity: 0;
 
 }
 .nosel.d-flex.room.r19716a5ef58x04376363-xs3xelg {
-    background-image: url(https://up6.cc/2025/07/175157216139111.gif);
+    background-image: url(https://up6.cc/2025/07/175157277839731.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
