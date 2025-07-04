@@ -3,6 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  50px!important;border: 0px solid #0000;
 }`);
 
+
 $(`<style>
 .nosel.d-flex.room.r1916a1daa88x6b0c13f1x-f13iox .fitimg.u-pic.borderg {
   letter-spacing: 1px;
