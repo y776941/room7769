@@ -427,6 +427,7 @@ setInterval(function () {
             } 
         } 
     }, 10);
+@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
 
 
