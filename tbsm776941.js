@@ -204,7 +204,7 @@ text-align: center;
 -webkit-text-fill-color: #40404f00;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-var rid='18652fdd59ax9b2053b5-xkona3';
+var rid='197cb46eea3x141d6685x-wt4n0m';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{animation: textclip 5s linear infinite;
 border-radius: 50px !important;
 border: 1px solid #40404f00;
