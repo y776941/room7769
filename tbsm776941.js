@@ -150,8 +150,6 @@ display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
-
-
 var rid='197cb46eea3x141d6685x-wt4n0m';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius: 2px !important;border: 1px solid #0000;
