@@ -106,7 +106,7 @@ margin-left: -173px !important;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00!important;
-  margin-left: 40px !important;
+  margin-left: -45px !important;
 }
 
 .nosel.d-flex.room.r19716a5ef58x04376363-xs3xelg {border-inline: 0px solid #4c121e !important;}
