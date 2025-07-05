@@ -203,7 +203,7 @@ border-radius: 10px !important;
 padding: 0px;
 }
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m {
-    background-image: url(https://up6.cc/2025/07/175148529463351.gif);
+    background-image: url(https://up6.cc/2025/07/175166339238071.png);
     background-size: cover;
     border-radius: 2px;
     display: inline-block;
