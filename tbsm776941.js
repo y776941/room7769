@@ -314,7 +314,7 @@ height: 52px;
     border-radius: 2px !important;
     background-color: #b2b2b2;
 	color: #000;
-	background-image: url(https://up6.cc/2025/07/175166339238071.png);
+	background-image: url(https://up6.cc/2025/07/175167924929711.gif);
     background-size: cover;
 }
 #d0.tarab1 .label-primary {
@@ -403,7 +403,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .corner.border.label.label-primary.tarab1 {
   border-radius: 2px !important;
   border: 1px solid #ecdce4;
-  background-image: url(https://up6.cc/2025/07/175166862425351.png;
+  background-image: url(https://up6.cc/2025/07/175167924929711.gif);
   background-size: cover;
 }
 .modal-header.label-primary.tarab1 {
