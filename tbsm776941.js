@@ -157,7 +157,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius: 2px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2025/07/175148529463351.gif); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2025/07/175166339238071.png); background-size: cover;color: #666666;
 }`)
 
 
@@ -203,7 +203,7 @@ border-radius: 10px !important;
 padding: 0px;
 }
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m {
-    background-image: url(https://up6.cc/2025/07/175166339238071.png);
+    background-image: url(https://up6.cc/2025/07/175148529463351.gif);
     background-size: cover;
     border-radius: 2px;
     display: inline-block;
