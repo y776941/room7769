@@ -336,9 +336,9 @@ height: 52px;
   border-radius: 2px !important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2025/07/175166339238071.png);
+  background-image: url(https://up6.cc/2025/07/175167924929711.gif);
   background-size: cover;
-  color: #000;
+  color: #fff;
 }
 #settings.tarab1 .bg-primary{background-color:#9d8980!important}#d0.tarab1 .btn-primary{background-color:#9d8980!important}
 #users.tarab1 .tbox {
@@ -430,7 +430,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .label.fl.label-primary.tarab1 {
     border-radius: 2px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2025/07/175167892228561.png;
+    background-image: url(https://up6.cc/2025/07/175167924929711.gif);
     color: #000;
     background-size: 100%;
 }
