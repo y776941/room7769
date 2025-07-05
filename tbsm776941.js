@@ -203,7 +203,7 @@ border-radius: 10px !important;
 padding: 0px;
 }
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m {
-    background-image: url(https://up6.cc/2025/07/175148529463351.gif);
+    background-image: url(https://up6.cc/2025/07/175166339238071.png);
     background-size: cover;
     border-radius: 2px;
     display: inline-block;
@@ -263,7 +263,7 @@ $("style").last().append(`
   border-radius: 2px !important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2025/07/175166862425351.png);
+  background-image: url(https://up6.cc/2025/07/175166339238071.png);
   background-size: cover;
 }
 #d2.tarab1 .uzr .fitimg.u-pic {
@@ -336,7 +336,7 @@ height: 52px;
   border-radius: 2px !important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2025/07/175166862425351.png);
+  background-image: url(https://up6.cc/2025/07/175166339238071.png);
   background-size: cover;
   color: #000;
 }
@@ -416,7 +416,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .head.d-flex.nosel.bg.fl.tarab1, .rsave.btn.btn-primary.fr.tarab1, .fa.fa-send.sndpm.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.tarab1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.tarab1, .fa.fa-send.sndbc.fl.btn.btn-primary.tarab1 {
     border-radius: 2px !important;
     border: 1px solid #464646;
-    background-image: url(https://up6.cc/2025/07/175166862425351.png);
+    background-image: url(https://up6.cc/2025/07/175166339238071.png);
     color: #000;
     background-size: 295%;
 }
@@ -430,7 +430,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .label.fl.label-primary.tarab1 {
     border-radius: 2px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2025/07/175166862425351.png;
+    background-image: url(https://up6.cc/2025/07/175166339238071.png;
     color: #000;
     background-size: 100%;
 }
