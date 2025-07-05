@@ -328,7 +328,7 @@ height: 52px;
   border-radius: 2px !important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2025/07/175166339238071.png);
+  background-image: url(https://up6.cc/2025/07/175166862425351.png);
   background-size: cover;
   color: #000;
 }
