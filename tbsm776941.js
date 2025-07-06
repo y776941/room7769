@@ -263,7 +263,7 @@ $("style").last().append(`
   border-radius: 2px !important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2025/07/175177357410891.png);
+  background-image: url(https://up6.cc/2025/07/175166339238071.png);
   background-size: cover;
 }
 #d2.tarab1 .uzr .fitimg.u-pic {
