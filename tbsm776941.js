@@ -361,7 +361,7 @@ border-radius: 2px !important;
     color: #000;
 }
 #d2.tarab1{background-color:#fafafa !important;
-background-image: url(https://up6.cc/2025/07/175166325168321.png);
+background-image: url(https://up6.cc/2025/07/175178119984661.png);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
