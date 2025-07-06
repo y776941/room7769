@@ -170,7 +170,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r197cb46eea3x141d6685x-wt4n0m .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
--webkit-text-fill-color: #000;
+-webkit-text-fill-color: #fff;
 height: 27px;
 margin-top: 40px !important;
 margin-bottom: 0px !important;
