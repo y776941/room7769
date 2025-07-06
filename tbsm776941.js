@@ -306,7 +306,7 @@ height: 52px;
     border-radius: 2px;
     margin-left: 1px;
     margin-top: 1px;
-    border: 1px solid #fff;
+    border: 1px solid #000;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
 }
 #users.tarab1 img.co{border-radius: 2px !important;transform:rotate(20deg);margin-top:2px!important}
@@ -321,7 +321,7 @@ height: 52px;
     border: 1px solid #464646 !important;
     border-radius: 2px !important;
     background-image: url(https://up6.cc/2025/07/175175589642971.png);
-    color: #fff;
+    color: #000;
     background-size: 285%;
 }
 #settings.tarab1 .label-primary {
