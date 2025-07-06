@@ -410,7 +410,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 	border-radius: 2px !important;
     border: 1px solid #ecdce4;
     background-color: #b2b2b2!important;
-	background-image: url(https://up6.cc/2025/07/175166339238071.png);
+	background-image: url(https://up6.cc/2025/07/175177357410891.png);
     background-size: cover;
 }
 .head.d-flex.nosel.bg.fl.tarab1, .rsave.btn.btn-primary.fr.tarab1, .fa.fa-send.sndpm.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.tarab1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.tarab1, .fa.fa-send.sndbc.fl.btn.btn-primary.tarab1 {
