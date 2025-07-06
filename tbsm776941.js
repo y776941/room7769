@@ -313,7 +313,7 @@ height: 52px;
 #users.tarab1 .nosel.ninr.fl.uzr.label.bg {
     border-radius: 2px !important;
     background-color: #b2b2b2;
-	color: #fff;
+	color: #000;
 	background-image: url(https://up6.cc/2025/07/175175904768421.gif);
     background-size: cover;
 }
@@ -321,7 +321,7 @@ height: 52px;
     border: 1px solid #464646 !important;
     border-radius: 2px !important;
     background-image: url(https://up6.cc/2025/07/175175589642971.png);
-    color: #000;
+    color: #fff;
     background-size: 285%;
 }
 #settings.tarab1 .label-primary {
