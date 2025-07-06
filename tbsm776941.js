@@ -472,7 +472,7 @@ border-radius: 2px;
 }
 
 #room.tarab1 {
-   background-color: white;
+   background-color: #000;
 }
 
 button.blike.corner.btn.minix.btn-danger.fa.fa-heart.tarab1 {
