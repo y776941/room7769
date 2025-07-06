@@ -321,7 +321,7 @@ height: 52px;
     border: 1px solid #464646 !important;
     border-radius: 2px !important;
     background-image: url(https://up6.cc/2025/07/175175589642971.png);
-    color: #fff;
+    color: #000;
     background-size: 285%;
 }
 #settings.tarab1 .label-primary {
