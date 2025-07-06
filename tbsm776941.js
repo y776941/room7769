@@ -347,7 +347,7 @@ height: 52px;
     border: 1px solid #efefef;
 }
 #room.tarab1 #mic{
-background-image: url(https://up6.cc/2025/07/175179239490031.gif);
+background-image: url(https://up6.cc/2025/07/175179367761351.png);
 background-size: cover;
 border-radius: 2px !important;
 }
