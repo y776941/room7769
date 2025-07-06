@@ -416,21 +416,21 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .head.d-flex.nosel.bg.fl.tarab1, .rsave.btn.btn-primary.fr.tarab1, .fa.fa-send.sndpm.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.tarab1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.tarab1, .fa.fa-send.sndbc.fl.btn.btn-primary.tarab1 {
     border-radius: 2px !important;
     border: 1px solid #464646;
-    background-image: url(https://up6.cc/2025/07/175166339238071.png);
+    background-image: url(https://up6.cc/2025/07/175179367761351.png);
     color: #000;
     background-size: 295%;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.tarab1 {
     border-radius: 2px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2025/07/175166339238071.png);
+    background-image: url(https://up6.cc/2025/07/175179367761351.png);
     color: #000;
     background-size: 100%;
 }
 .label.fl.label-primary.tarab1 {
     border-radius: 2px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2025/07/175166339238071.png);
+    background-image: url(https://up6.cc/2025/07/175179367761351.png);
     color: #000;
     background-size: 100%;
 }
